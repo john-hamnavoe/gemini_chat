@@ -14,3 +14,7 @@ export GEMINI_API_KEY="your-api-key-here"
 ruby gemini_chat.rb
 ```
 
+## More Information
+
+
+https://hamnavoepartners.com/published_articles/4
